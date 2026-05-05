@@ -61,3 +61,13 @@ Cybersecurity Enthusiast | Aspiring SOC Analyst
 1. Install Python and Flask
 2. Run: python app.py
 3. Access via browser at http://127.0.0.1:5000
+
+## ▶️ How to Run
+1. Install Flask:
+   pip install flask
+
+2. Run the application:
+   python app.py
+
+3. Open in browser:
+   http://127.0.0.1:5000
