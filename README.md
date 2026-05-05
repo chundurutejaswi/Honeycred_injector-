@@ -56,3 +56,8 @@ This is a personal learning project. Suggestions and improvements are welcome.
 ## 📌 Author
 Sridevi Chunduru  
 Cybersecurity Enthusiast | Aspiring SOC Analyst
+
+## ▶️ How to Run
+1. Install Python and Flask
+2. Run: python app.py
+3. Access via browser at http://127.0.0.1:5000
